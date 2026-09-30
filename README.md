@@ -1,21 +1,35 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 Currently working on **Rentora**, a location-based PG and flat rental platform.<br>- 🤝 Open to collaborating on **Python, Django, and backend development projects**.<br>- 🌱 Currently enhancing my skills in **Django REST Framework, PostgreSQL, and system design**.<br>- 💡 Interested in building **scalable, secure, and efficient backend applications**.<br>- 💬 Feel free to ask me about **Python, Django, Flask, REST APIs, and databases**.<br>- 🎯 Focused on **continuous learning and developing real-world software solutions**.
+# Hi 👋, I'm Roshan Kumar
 
+### A passionate Python Backend Developer focused on building scalable applications, REST APIs, and reliable backend solutions.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan-kumar-321abc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputroshansingh579@gmail.com) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan-321" alt="roshan-321" /></a> </p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=roshan-321&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=roshan-321&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=roshan-321&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I'm currently working on **Building Rentora, a location-based PG and flat rental platform using Python, Django REST Framework, and PostgreSQL.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🌱 I'm currently learning **Exploring Advanced Python, Django REST Framework, REST API Development, and AI/LLM technologies to enhance my backend development skills.**
 
----
-[![](https://komarev.com/ghpvc/?username=roshan-321&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👯 I'm looking to collaborate on **Open-source projects, Python backend development, Django REST APIs, and web applications that solve real-world problems.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🤝 I'm looking for help with **Learning best practices for building scalable backend applications.**
+
+- 💬 Ask me about **Python, Flask, Django, Django REST Framework, REST APIs, and SQL.**
+
+- 📫 How to reach me **rajputroshansingh579@gmail.com**
+
+- ⚡ Fun fact **I enjoy solving real-world problems through coding and building practical applications.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/roshan-321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="roshan-321" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshan-kumar-321abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-kumar-321abc" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-321&show_icons=true&locale=en&layout=compact" alt="roshan-321" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-321&show_icons=true&locale=en" alt="roshan-321" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-321&" alt="roshan-321" /></p>
+
