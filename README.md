@@ -1,51 +1,151 @@
-
 # Hi 👋, I'm Roshan Kumar
 
-### A passionate Python Backend Developer focused on building scalable applications, REST APIs, and reliable backend solutions.
+<h3 align="center">
+  Python Backend Developer | Django | Flask
+</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshan-321" alt="roshan-321" />
+<p align="center">
+  I build backend applications and RESTful APIs using Python, Django,
+  Flask, and Django REST Framework, with a focus on database-driven
+  web applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/roshan-321">
+    <img src="https://komarev.com/ghpvc/?username=roshan-321&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/roshan-321?tab=followers">
+    <img src="https://img.shields.io/github/followers/roshan-321?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
 
-- 🔭 I'm currently working on **Rentora, a location-based PG and flat rental platform.**
+---
 
-- 🌱 I'm currently learning **Advanced Python, Django REST Framework, and AI/LLM technologies.**
+## 👨‍💻 About Me
 
-- 👯 I'm looking to collaborate on **Python backend and Django projects.**
+* 🔭 Currently working as a **Python Developer Intern at Elyria Software Pvt. Ltd.**
+* 🌱 Working with **Python, Django, Flask, Django REST Framework & PostgreSQL**
+* 💻 Focused on **Backend Development & RESTful APIs**
+* 🧠 Improving my skills in **API Development, Authentication & Database Management**
+* 🚀 Interested in building **real-world, database-driven applications**
+* 📂 All my projects are available on **[GitHub](https://github.com/roshan-321)**
+* 📫 Reach me at **[rajputroshansingh579@gmail.com](mailto:rajputroshansingh579@gmail.com)**
 
-- 🤝 I'm looking for help with **Building scalable backend applications.**
+---
 
-- 💬 Ask me about **Python, Flask, Django, Django REST Framework, REST APIs, and SQL.**
+## 🚀 Featured Projects
 
-- 📫 How to reach me **rajputroshansingh579@gmail.com**
+<table>
+<tr>
+<td width="50%">
 
-- ⚡ Fun fact **I enjoy solving real-world problems through coding.**
+### 🏠 Rentora
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/roshan-321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="roshan-321" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roshan-kumar-321abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-kumar-321abc" height="30" width="40" /></a>
+Location-based PG and flat rental platform connecting property owners with tenants, featuring JWT authentication and property management.
+
+**Tech:** Python • Django • DRF • PostgreSQL • JWT
+
+<a href="https://github.com/roshan-321/Rentora---Location-Based-PG-Flat-Rental-Platform">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛠️ BookMyService
+
+Multi-service booking platform connecting members with service providers for everyday home services, including booking and scheduling workflows.
+
+**Tech:** Python • Django • DRF • PostgreSQL • JWT
+
+<a href="https://github.com/roshan-321">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+> 🚧 More backend projects are coming soon.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="django rest framework" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-321&show_icons=true&locale=en&layout=compact" alt="roshan-321" /></p>
+### Database & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-321&show_icons=true&locale=en" alt="roshan-321" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,postman,vscode" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-321&" alt="roshan-321" /></p>
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan-321&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-321&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=roshan-321&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-321&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshan-321&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roshan-321&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roshan-321&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="[https://linkedin.com/in/roshan-kumar](https://linkedin.com/in/roshan-kumar321-abc)[321-abc](https://linkedin.com/in/roshan-kumar321-abc)">     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+   
+  <a href="https://github.com/roshan-321">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+</p>
+
+📧 **Email:** [rajputroshansingh579@gmail.com](mailto:rajputroshansingh579@gmail.com)
+
+---
+
+<p align="center">
+  <i>Building real-world backend applications, one project at a time. 🚀</i>
+</p>
