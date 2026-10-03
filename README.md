@@ -25,10 +25,8 @@
 * 💼 Currently working as a **Python Developer Intern at Elyria Software**
 * 🔭 Currently working on **Rentora – Location-Based PG/Flat Rental Platform**
 * 💻 Focused on **Python Backend Development**
-* 🌱 Working with **Django, Django REST Framework, Flask and PostgreSQL**
-* 🔐 Experienced with **JWT Authentication and OAuth 2.0 Google Sign-In**
-* 🚀 Interested in building **real-world backend applications**
-* 🧠 Interested in **REST APIs, database management and backend architecture**
+* 🌱 Working with **Django, Django REST Framework, and PostgreSQL**
+* 🚀 Building **real-world backend applications and RESTful APIs**
 * 📂 All my projects are available on **[GitHub](https://github.com/roshan-321)**
 
 ---
@@ -129,5 +127,5 @@ A location-based PG and flat rental platform connecting property owners with ten
 ---
 
 <p align="center">
-  <i>Building real-world backend applications, one project at a time. 🚀</i>
+  <i>Building real-world backend applications with Python, Django and REST APIs. 🚀</i>
 </p>
